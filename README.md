@@ -1,4 +1,10 @@
 
+![Screenshot 2024-07-20 160504](https://github.com/user-attachments/assets/ea877402-16c5-4a81-a007-ef091fe2c3ba)
+![Screenshot 2024-07-20 160521](https://github.com/user-attachments/assets/187751d4-9252-4ffc-9473-91fa3b149d07)
+![Screenshot 2024-07-20 160535](https://github.com/user-attachments/assets/7cccff12-e19f-42ee-9489-3d1fb8315d65)
+![Screenshot 2024-07-20 160549](https://github.com/user-attachments/assets/bdb9ab1b-0e9c-4f82-9584-ef85fe479acf)
+![Screenshot 2024-07-20 160604](https://github.com/user-attachments/assets/6b20004c-1393-4585-8893-ca6164385afb)
+![Screenshot 2024-07-20 160618](https://github.com/user-attachments/assets/0f99bfbb-fe9f-4df9-ab1d-4b4f0b8c3ad7)
 
 # Getting Started with Create React App
 
